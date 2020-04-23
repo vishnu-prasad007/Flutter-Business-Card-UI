@@ -48,5 +48,5 @@ flutter:
     - family: Comic Neue
       fonts:
         - asset: fonts/ComicNeue-Regular.ttf
-        - asset: fonts/ComicNeue-LightLatic.ttf
+        - asset: fonts/ComicNeue-LightItalic.ttf
         
